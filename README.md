@@ -49,4 +49,4 @@ The author is **not responsible** for misuse
 
 ---
 
-Made by **0xMoham3d**
+Made by [**0xMoham3d**](https://github.com/0xMoham3d)
