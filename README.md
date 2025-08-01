@@ -7,8 +7,12 @@ A command-line utility for performing various networking and information-gatheri
 ## 📦 1. Installation
 
 ### 🔹 Windows
-- Download and install **Nmap** from the [official site](https://nmap.org/download.html#windows)
-- Make sure to check the box to add Nmap to your system PATH during installation.
+1. Python
+  - Make sure Python is installed from the [official website](https://www.python.org/downloads/)
+  - Make sure to check the box to add Python to your system PATH during installation.
+2. Nmap
+  - Download and install **Nmap** from [here](https://nmap.org/download.html#windows)
+  - Make sure to check the box to add Nmap to your system PATH during installation.
 
 ### 🔹 Linux (Debian/Ubuntu)
 ```bash
